@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="47" started-at="2021-10-06T18:11:35Z" finished-at="2021-10-06T18:11:35Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="47" started-at="2021-10-06T18:11:35Z" finished-at="2021-10-06T18:11:35Z">
+      <class name="sample.Test124">
+        <test-method status="PASS" signature="div()[pri:0, instance:sample.Test124@79698539]" name="div" duration-ms="0" started-at="2021-10-06T23:41:35Z" finished-at="2021-10-06T23:41:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="mul()[pri:0, instance:sample.Test124@79698539]" name="mul" duration-ms="1" started-at="2021-10-06T23:41:35Z" finished-at="2021-10-06T23:41:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:sample.Test124@79698539]" name="sub" duration-ms="0" started-at="2021-10-06T23:41:35Z" finished-at="2021-10-06T23:41:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:sample.Test124@79698539]" name="sum" duration-ms="3" started-at="2021-10-06T23:41:35Z" finished-at="2021-10-06T23:41:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- sample.Test124 -->
+      <class name="sample.Test123">
+        <test-method status="PASS" signature="div()[pri:0, instance:sample.Test123@edf4efb]" name="div" duration-ms="12" started-at="2021-10-06T23:41:35Z" finished-at="2021-10-06T23:41:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="mul()[pri:0, instance:sample.Test123@edf4efb]" name="mul" duration-ms="0" started-at="2021-10-06T23:41:35Z" finished-at="2021-10-06T23:41:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:sample.Test123@edf4efb]" name="sub" duration-ms="0" started-at="2021-10-06T23:41:35Z" finished-at="2021-10-06T23:41:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:sample.Test123@edf4efb]" name="sum" duration-ms="0" started-at="2021-10-06T23:41:35Z" finished-at="2021-10-06T23:41:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- sample.Test123 -->
+      <class name="sample.Test125">
+        <test-method status="PASS" signature="div()[pri:0, instance:sample.Test125@6b2fad11]" name="div" duration-ms="1" started-at="2021-10-06T23:41:35Z" finished-at="2021-10-06T23:41:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="mul()[pri:0, instance:sample.Test125@6b2fad11]" name="mul" duration-ms="0" started-at="2021-10-06T23:41:35Z" finished-at="2021-10-06T23:41:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:sample.Test125@6b2fad11]" name="sum" duration-ms="1" started-at="2021-10-06T23:41:35Z" finished-at="2021-10-06T23:41:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:sample.Test125@6b2fad11]" name="sub" duration-ms="0" started-at="2021-10-06T23:41:35Z" finished-at="2021-10-06T23:41:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- sample.Test125 -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
